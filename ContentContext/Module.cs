@@ -1,8 +1,9 @@
 using System.Collections.Generic;
+using ReviewOO.SharedContext;
 
 namespace ReviewOO.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {
